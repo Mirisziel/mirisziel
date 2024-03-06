@@ -68,3 +68,11 @@
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31saqdpos6shmwjbgas32vdcsi4a">
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31saqdpos6shmwjbgas32vdcsi4a&unique={true|1|on|yes})
+  </a>
+</div>
+
+###
