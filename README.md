@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi ! My name is Aditya Singh and I'm a developer from New Delhi, India</h1>
+<h1 align="center">Hi ! I'm Aditya Singh, a developer from New Delhi, India</h1>
 
 ###
 
